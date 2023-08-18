@@ -22,8 +22,7 @@
  
 
 
-- Analyst: [Gabriel Costa Andrade](https://www.linkedin.com/in/gabriel-costa-andrade-590a17227/)
-<br>
+
 
 # License
 [MIT](https://github.com/desktop/desktop/blob/development/LICENSE)
