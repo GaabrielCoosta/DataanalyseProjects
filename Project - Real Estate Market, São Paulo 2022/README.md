@@ -51,10 +51,11 @@ The work will be presented as follows:
   - At least 4 analyzes must be carried out within Big Query using the standard SQL language with the description of the queries made;
   - A dashboard must be created in Looker Studio or PowerBI for graphical display of processed data bringing important insights;
   - And it must be demonstrated in a simple workflow (graphic) the ETL steps with their respective tools;
-  - Make project documentation
+  - Make project documentation;
 
 
-## Running the project
+
+## RUNNING THE PROJECT
 
 ```bash
 # Description "pt-br"
@@ -63,22 +64,15 @@ cd Description\description.pdf
 # Read and understand the project documentation "pt-br"
 cd documentation\documentation.pdf
 
-# Raw Datasets
-cd Datasets\Rawdata
-
-# Processed Datasets
-cd Datasets\ProcessedData
-
 # ETL-ITBI-Python ".ipynb" file
 cd ETL-ITBI-Python\ETL-ITBI.ipynb
 
-
 ```
+## RAW DATASETS 
+[Donwload Datasets](https://drive.google.com/drive/folders/1lsa3B-lTU059I3SmQmTDvgNE0dBgL4zs?usp=sharing)
 
-## Requirements
+#
 
+Gabriel Andrade
 
-
-Gabriel Costa Andrade
-
-https://www.linkedin.com/in/gabriel-andrade-590a17227/
+[Linkedin](https://www.linkedin.com/in/gabriel-andrade-590a17227/)
