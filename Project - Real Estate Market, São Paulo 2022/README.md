@@ -75,4 +75,4 @@ cd ETL-ITBI-Python\ETL-ITBI.ipynb
 
 Gabriel Andrade
 
-[Linkedin](https://www.linkedin.com/in/gabriel-andrade-590a17227)
+[Linkedin](https://www.linkedin.com/in/gabriel-andrade-590a17227/)
