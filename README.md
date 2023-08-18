@@ -31,5 +31,5 @@ GitHub® and its styled versions and the Invertocat mark are GitHub's trademarks
 
 #
 
-- Analyst: [Gabriel Costa Andrade](https://www.linkedin.com/in/gabriel-costa-andrade-590a17227/)
+Analyst: [Gabriel Costa Andrade](https://www.linkedin.com/in/gabriel-costa-andrade-590a17227/)
 <br>
