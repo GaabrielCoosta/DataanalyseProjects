@@ -26,3 +26,6 @@ GO
 -- Consulte os dados da tabela "Usuarios"
 SELECT * FROM Usuarios;
 GO
+
+
+
