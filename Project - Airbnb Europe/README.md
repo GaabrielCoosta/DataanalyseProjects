@@ -33,6 +33,7 @@
 
 ### Project resolution available in the file, in that same folder "Project03 - Airbnb":
 - Requirements: Python 3+ and Colab
+
 ```bash
 #File: 
 "Projeto03_Airbnb.ipynb"
