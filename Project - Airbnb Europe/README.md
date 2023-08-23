@@ -1,18 +1,4 @@
-![projects](https://github.com/GaabrielCoosta/SoulCodeAcademy/assets/108695592/c5a5df1f-7002-44b6-a1f3-efb4197ae6c7)
-<br>
-<br>
-
-## :mortar_board: AD2 Class Data Analysis
-
-- School: [SoulCode Academy](https://soulcode.com/)
-- Course: Bootcamp Analista de Dados Martech - AD2
-- Period: Week 6
-- Teachers: [Franciene Rodrigues](https://www.linkedin.com/in/francianerod/) and  [Jonathas Cardeiro](https://www.linkedin.com/in/sahtcarneiro/)
-- Student: [Gabriel Costa Andrade](https://www.linkedin.com/in/gabriel-costa-andrade-590a17227/)
-<br>
-
-
-## Project - Airbnb
+# Project - Airbnb
 
 ![AirbnbAmsterdam](https://github.com/GaabrielCoosta/SoulCodeAcademy/assets/108695592/f3fd582c-bbdc-4148-8a8b-5c46808f15d6)
 
