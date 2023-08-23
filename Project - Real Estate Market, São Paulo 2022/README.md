@@ -68,7 +68,7 @@ cd documentation\documentation.pdf
 
 # ETL-ITBI-Python ".ipynb" file
 cd ETL-ITBI-Python\ETL-ITBI.ipynb
-Install requirements.txt
+-  Install requirements.txt
 
 ```
 ## RAW DATASETS 
