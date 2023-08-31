@@ -7,20 +7,20 @@
 ## DATA ANALYSIS
 
 - *The Data Analyst is responsible for analyzing, interpreting, cataloging and verifying how data can be used for improvement and decision making within organizations*
-- 
-#### PROJECTS WITH QLIK SENSE (SaaS)
+
+### PROJECTS WITH QLIK SENSE (SaaS)
 
 **:heavy_minus_sign: Project - Airbnb Europe**
-<br>Concepts: Qlik Sense (SaaS)
+Concepts: Qlik Sense (SaaS)
 
 #### PROJECTS WITH POWER BI & PYTHON & DATA & CLOUD
 
 **:heavy_minus_sign: Project - Real Estate Market, São Paulo 2022**
-<br>Concepts: Python, SQL, DAX, PowerBI, Power Query, GCP, Big Query
+Concepts: Python, SQL, DAX, PowerBI, Power Query, GCP, Big Query
   
 #
 
-#### LICENSE
+## LICENSE
 
 [MIT](https://github.com/desktop/desktop/blob/development/LICENSE)
 
@@ -31,4 +31,3 @@ GitHub® and its styled versions and the Invertocat mark are GitHub's trademarks
 #
 
 Analyst: [Gabriel Costa Andrade](https://www.linkedin.com/in/gabriel-costa-andrade-590a17227/)
-<br>
